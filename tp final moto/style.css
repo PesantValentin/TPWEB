@@ -34,8 +34,27 @@ h2
     text-align: middle;
 }
 
+.menu {
+    float: left;
+    width: 100%;
+    height: 500px;
+}
+
+
 .pagesuivante
 {
-    text-align: right;
-    
+    float: right;
+    width: 50%;
+    position: relative;
+}
+
+.spacer {
+    height: 50px;
+    width: 100%;
+}
+
+.picturebackground
+{
+    background-image:url(photo3bis.png);
+    background-size: cover;
 }
