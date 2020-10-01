@@ -1,0 +1,11 @@
+h1
+{
+    color: rgb(78, 78, 204); /* color allows to modify the color in this tag */
+}
+
+#div
+{
+    text-align: center; /* text-align allows to change the position of the text of this tag */
+    display: flex;
+    justify-content: center;
+}
