@@ -120,6 +120,7 @@ h2 {
 .picturebackgroundsommaire {
     background-image:url(photo3bis.png);
     background-size: cover;
+    
 }
 
 .picturebackgroundpresent {
@@ -209,4 +210,24 @@ button {
 
     background-image: url(photo4.png);
     background-size: cover;
+}
+
+.retour {
+
+    padding-inline-end: 55%;
+    text-align: left;
+    
+}
+
+.retourindex {
+
+    padding-inline-end: 55%;
+    text-align: left;
+    margin-top: 35%;
+}
+
+.retour3 {
+
+    padding-inline-end: 55%;
+    text-align: left;
 }
