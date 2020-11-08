@@ -216,7 +216,6 @@ button {
 
     padding-inline-end: 55%;
     text-align: left;
-    
 }
 
 .retourindex {
@@ -226,8 +225,22 @@ button {
     margin-top: 35%;
 }
 
-.retour3 {
+.retourcontact {
 
     padding-inline-end: 55%;
     text-align: left;
+    margin-top: 3%;
 }
+
+.retourvideo {
+
+    padding-inline-end: 100%;
+    text-align: left;     
+}
+
+.retourtableau {
+
+    padding-inline-end: 100%;
+    text-align: left;     
+}
+
